@@ -12,5 +12,5 @@
 
 ### Deployment:
 
-* Live demo, click here : [ OmkarMurthy P](https://gokul-portfolio-white.vercel.app/)
+* Live demo, click here : [ OmkarMurthy P](https://omkarmurthy-portfolio.netlify.app/)
 
